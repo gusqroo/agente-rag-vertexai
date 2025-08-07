@@ -48,8 +48,8 @@ Se utiliza **Google Vertex AI** para el modelo de lenguaje y **FAISS** para alma
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/usuario/agente-rag-vertex.git
-cd agente-rag-vertex
+git clone https://github.com/gusqroo/agente-rag-vertexai.git
+cd agente-rag-vertexai
 
 # Crear entorno virtual
 python -m venv venv
@@ -167,6 +167,18 @@ Recomendación: habilitarla cuando se requiera **transparencia** o validación d
 - 🤖 Ajuste fino de modelos para vocabulario específico.
 
 ---
+## Si tienes preguntas, sugerencias o deseas colaborar, no dudes en contactarme:
+
+-💼 Nombre: Luis Gustavo Gómez Vargas
+
+-📧 Correo: gusqroo@gmail.com
+
+-🐙 GitHub: @gusqroo
+
+-💼 LinkedIn: linkedin.com/in/gusqroo
+
+---
+
 
 ## 📜 Licencia
-Este proyecto se distribuye bajo licencia MIT.
+Este proyecto se distribuye bajo License 2.0
